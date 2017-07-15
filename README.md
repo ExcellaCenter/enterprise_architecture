@@ -1,4 +1,4 @@
-# outstanding questions
+# Outstanding Questions
 
 What are the objective attributes that would make an architecture successful on this project?
 Examples would be: code performance, scaleability, flexiblity, maintainablity, readability, code reuse, separation of concerns, fewer bugs, transparency of code impact, time to market of new features, time to resolution of maintaince issues, etc.
